@@ -1,0 +1,107 @@
+.details1{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: flex;
+    width: 400px;
+    height: 545px;
+    background-color: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    color: white;
+}
+#logo{
+    text-align: left;
+    margin-left: 8%;
+    cursor: pointer;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#fname{
+    font-size: larger;
+    margin-right: 260px;
+}
+#fname1{ 
+    border: 1px solid white;
+    margin-top: 0px;
+    margin-left: flex;
+    margin-right: 5px;
+    width: 300px;
+    height:30px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    color: white;
+}
+#email{
+    font-size: larger;
+    margin-right: 195px;
+    margin-top: 0px;
+}
+#email1{
+    border: 1px solid white;
+    margin-top: 0px;
+    margin-left: flex;
+    margin-right: 5px;
+    width: 300px;
+    height:30px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    color: white;
+}
+#mobile{
+    font-size: larger;
+    margin-right: 185px;
+    margin-top: 0px;
+}
+#mobile1{
+    border: 1px solid white;
+    margin-top: 0px;
+    margin-left: flex;
+    margin-right: 5px;
+    width: 300px;
+    height:30px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    color: white;
+}
+#pass{
+    font-size: larger;
+    margin-right: 235px;
+    margin-top: 0px;
+}
+#pass1{
+    border: 1px solid white;
+    margin-top: 0px;
+    margin-left: flex;
+    margin-right: 5px;
+    width: 300px;
+    height:30px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    color: white;
+}
+.button{
+    background-color: red;
+    font-weight: 20px;
+    width: 305px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    margin-right: 5px;
+    cursor: pointer;
+}
+#alre{
+    text-align: start;
+    margin-left: flex;
+    margin-left: 40px;
+}
+#sign{
+    color: rgb(20, 155, 223);
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,78 @@
+.details{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: flex;
+    width: 400px;
+    height: 410px;
+    background-color: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    color: #fff;
+}
+#logo{
+    text-align: left;
+    margin-left: 8%;
+    cursor: pointer;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#email1{
+    font-size: 20px;
+    margin-right:130px;
+    color: white;
+    background-color: transparent;
+}
+#name{
+    margin-right: 95px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 35px;
+    height:40px;
+    margin-bottom: 15px;
+    color: white;
+    background-color: transparent;
+}
+#pass{
+    font-size: 20px;
+    margin-right: 255px;
+}
+#password{
+    margin-right: 95px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 35px;
+    height:40px;
+    margin-bottom: 15px;
+    color: white;
+    background-color: transparent;
+}
+.button{
+    background-color: red;
+    font-weight: 60px;
+    font-size: 20px;
+    width: 310px;
+    height: 40px;
+    border: 1px thin grey;
+    border-radius: 10px;
+    margin-right: 95px;
+    margin-left: 35px;
+    color: white;
+    cursor: pointer;
+}
+#new{
+    text-align: start;
+    margin-left: flex;
+    margin-left: 35px;
+}
+#reg{
+    color: rgb(20, 155, 223);
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
